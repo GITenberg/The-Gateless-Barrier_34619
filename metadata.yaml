@@ -1,0 +1,30 @@
+_repo: The-Gateless-Barrier_34619
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Malet, Lucas
+    alias: Harrison, Mary St. Leger Kingsley
+    birthdate: 1852
+    deathdate: 1931
+    gutenberg_agent_id: '2808'
+    url: http://www.gutenberg.org/2009/agents/2808
+    wikipedia: http://en.wikipedia.org/wiki/Lucas_Malet
+description: ''
+gutenberg_issued: '2010-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Ghost stories'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+title: The Gateless Barrier
+url: http://www.gutenberg.org/ebooks/34619
